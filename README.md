@@ -1,6 +1,6 @@
 # SpelunkyHD Level Difficulty Analysis Tool
 
-This tool allows you to analyze the difficulty of SpelunkyHD levels. It takes an input level pack file, simulates player behaviors and paths, and generates a difficulty report based on enemy and trap metrics.
+This tool allows you to analyse the difficulty of SpelunkyHD levels. It takes an input level pack file, simulates player behaviours and paths, and generates a difficulty report based on enemy and trap metrics.
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ This tool allows you to analyze the difficulty of SpelunkyHD levels. It takes an
 7. **Run the `prepareLevelFile.py` Script**  
    Edit the `prepareLevelFile.py` file to set the input file name to your newly saved level. Run the script to convert your file.
 
-8. **Analyze the Difficulty**  
+8. **Analyse the Difficulty**  
    Follow the original two steps outlined above to run the difficulty assessment on your custom level.
 
 ---
