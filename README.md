@@ -52,7 +52,8 @@ This tool allows you to analyse the difficulty of SpelunkyHD levels. It takes an
 
 ## Notes
 - Make sure you are using SpelunkyHD version `1_4` for compatibility.  
-- Test levels in Frozlunky to ensure they behave as expected before running the analysis.  
+- Test levels in Frozlunky to ensure they behave as expected before running the analysis.
+- The app does not work well with ladders or platform tiles yet, may be added in the future.
 
 ---
 
